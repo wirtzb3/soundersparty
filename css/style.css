@@ -1,0 +1,26 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+#logo {
+  width: 100%;
+  height: 100%
+}
+
+.making_room {
+  height: 50%:
+}
+
+#enemy_logo {
+  width: 120%;
+  height: 120%
+}
+
+.center_vs {
+  font-size: 100px;
+  text-align: center;
+}
+
+.header_text {
+  text-align: center;
+}
